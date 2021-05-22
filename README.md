@@ -1,6 +1,6 @@
 <h1> Software Art: Text </h1>
-Projects and Sketches for Software Art: Text Spring 2021
-<h2>Sketches</h2>
+A Selection of Projects and Sketches from Software Art: Text - Spring 2021
+<h2>Sketches (Short Exercises)</h2>
 A Code Poem</br>
 A Playlist Generator (Web Scraping)</br>
 Text on Image 
